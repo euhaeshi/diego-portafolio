@@ -1,0 +1,29 @@
+.d-flex {
+  display: flex;
+}
+
+.f-direction-column {
+  flex-direction: column;
+}
+
+.c-black {
+  color: var(--black);
+}
+
+.gap-2 {
+  gap: calc(var(--size) * 2);
+}
+
+.gap-4 {
+  gap: calc(var(--size) * 4);
+}
+
+.gap-8 {
+  gap: calc(var(--size) * 8);
+}
+
+@media (width >=768px) {
+  .md\:d-none {
+    display: none;
+  }
+}

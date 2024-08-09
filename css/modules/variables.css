@@ -1,0 +1,19 @@
+:root {
+  scroll-behavior: smooth;
+  --primary: #23b5e8;
+  --white: #f1f5f8;
+  --black: #010508;
+  --primary-background: var(--black);
+  --primary-text: var(--white);
+  --light-primary-text: var(--black);
+  --shadow: #01050880;
+  --size: 3.5px;
+  --max-width: 1024px;
+  --border-radius: calc(var(--size) * 4);
+
+  --transition-duration: 0.25s;
+
+  @media (width >=768px) {
+    --size: 4px;
+  }
+}
