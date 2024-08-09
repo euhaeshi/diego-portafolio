@@ -1,6 +1,6 @@
 # [diego portafolio](https://github.com/euhaeshi/diego-portafolio)
 
-[![diego portafolio](./img/mi portafolio.png)]
+[![diego portafolio](./img/mi%20portafolio.png)](https://github.com/euhaeshi/diego-portafolio)
 
 ## 📜 Descripción 📜
 Desarrollador Web y Mobile Frontend especializado en React, Next.js, Astro y React Native. Consultor dedicado al usuario. Investigador enfocado en la innovación. Docente comprometido con el crecimiento integral de los alumnos. Amante del autoaprendizaje y del código de calidad.
